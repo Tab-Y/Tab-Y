@@ -1,4 +1,4 @@
-### Tab-Y
+### **Tab-Y**
 **pronouns** *He/him/they/them*
 
 
@@ -26,7 +26,7 @@ I have several milestones I'd like to achieve throughout my coding career. In no
 ## Languages
 
 | Proficient  | Learning  | Want to Learn   |
-| :---        |   :---:   |         ---:    |
+| :---:       |   :---:   |        :---:    |
 | ![HTML 5 shield](https://img.shields.io/badge/HTML5-Red) | ![Python shield](https://img.shields.io/badge/Python-blue) | ![C++ shield](https://img.shields.io/badge/C++-yellow) |
 | ![CSS shield](https://img.shields.io/badge/CSS-yellow) | ![C# shield](https://img.shields.io/badge/C%23-orange) | ![Java shield](https://img.shields.io/badge/Java-green) |
 | ![Javascript shield](https://img.shields.io/badge/Javascript-yellowgreen) | ![Javascript shield](https://img.shields.io/badge/Javascript-yellowgreen) | ![Typescript shield](https://img.shields.io/badge/Typescript-blue) |
