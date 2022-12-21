@@ -1,5 +1,5 @@
 ### Tab-Y
-pronouns *He/him/they/them*
+**pronouns** *He/him/they/them*
 
 
 ## About me
@@ -47,3 +47,4 @@ I have several milestones I'd like to achieve throughout my coding career. In no
 
 <!--
 **Tab-Y/Tab-Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
