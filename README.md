@@ -3,6 +3,8 @@
 
 [**Portfolio**](https://tab-y.github.io/working-portfolio/) 
 
+*anime, movies, video games, ramen, pizza, coding, learning*
+
 
 ## About me
 
