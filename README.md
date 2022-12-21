@@ -42,9 +42,3 @@ I have several milestones I'd like to achieve throughout my coding career. In no
 ![mySQL shield](https://img.shields.io/badge/mySQL-orange) ![Markdown shield](https://img.shields.io/badge/Markdown-grey) ![NPM shield](https://img.shields.io/badge/NPM-brown)
 
 [![Tab-y's GitHub stats](https://github-readme-stats.vercel.app/api?username=tab-y)](https://github.com/tab-y/github-readme-stats)
-
-
-
-<!--
-**Tab-Y/Tab-Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
