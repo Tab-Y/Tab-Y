@@ -13,7 +13,7 @@ full-stack web development, I've learned several useful languages and practices 
 are limitless and have an ever alluring draw to them. The pull for more knowledge and improving my skills and capabilities is a never ending desire. 
 
 
-# Goals
+### Goals
 
 I have several milestones I'd like to achieve throughout my coding career. In no particular order :
 - game development
@@ -23,7 +23,7 @@ I have several milestones I'd like to achieve throughout my coding career. In no
 - enjoy what I do
 
 
-## Languages
+### Languages
 
 | Proficient  | Learning  | Want to Learn   |
 | :---:       |   :---:   |        :---:    |
@@ -35,7 +35,7 @@ I have several milestones I'd like to achieve throughout my coding career. In no
 | ![React Shield](https://img.shields.io/badge/React-blue) | ![React Shield](https://img.shields.io/badge/React-blue) | |
 
 
-# Other useful knowledge
+### Other useful knowledge
 
 ![GitHub shield](https://img.shields.io/badge/GitHub-black) ![VSCode shield](https://img.shields.io/badge/VSCode-blue) ![Heroku shield](https://img.shields.io/badge/Heroku-red)
 ![DBeaver shield](https://img.shields.io/badge/DBeaver-yellow) ![Insomnia shield](https://img.shields.io/badge/Insomnia-purple) ![MongoDB shield](https://img.shields.io/badge/MongoDB-green)
