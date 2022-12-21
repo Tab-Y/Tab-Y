@@ -28,10 +28,10 @@ I have several milestones I'd like to achieve throughout my coding career. In no
 | Proficient  | Learning  | Want to Learn   |
 | :---        |   :---:   |         ---:    |
 | ![HTML 5 shield](https://img.shields.io/badge/HTML5-Red) | ![Python shield](https://img.shields.io/badge/Python-blue) | ![C++ shield](https://img.shields.io/badge/C++-yellow) |
-| ![CSS shield](https://img.shields.io/badge/CSS-yellow) | ![C# shield](https://img.shields.io/badge/C%23-orange)] | ![Java shield](https://img.shields.io/badge/Java-green) |
-| ![Javascript shield](https://img.shields.io/badge/Javascript-yellowgreen) | ![Javascript shield](https://img.shields.io/badge/Javascript-yellowgreen)] | ![Typescript shield](https://img.shields.io/badge/Typescript-blue) |
-| ![Node.js shield](https://img.shields.io/badge/Node.js-brightgreen) | ![Node.js shield](https://img.shields.io/badge/Node.js-brightgreen)] | ![C shield](https://img.shields.io/badge/C-yellow) |
-| ![Bootstrap shield](https://img.shields.io/badge/Bootstrap-grey)] | ![Bootstrap shield](https://img.shields.io/badge/Bootstrap-grey)] | ![Everything else shield](https://img.shields.io/badge/Everything_else-red) |
+| ![CSS shield](https://img.shields.io/badge/CSS-yellow) | ![C# shield](https://img.shields.io/badge/C%23-orange) | ![Java shield](https://img.shields.io/badge/Java-green) |
+| ![Javascript shield](https://img.shields.io/badge/Javascript-yellowgreen) | ![Javascript shield](https://img.shields.io/badge/Javascript-yellowgreen) | ![Typescript shield](https://img.shields.io/badge/Typescript-blue) |
+| ![Node.js shield](https://img.shields.io/badge/Node.js-brightgreen) | ![Node.js shield](https://img.shields.io/badge/Node.js-brightgreen) | ![C shield](https://img.shields.io/badge/C-yellow) |
+| ![Bootstrap shield](https://img.shields.io/badge/Bootstrap-grey) | ![Bootstrap shield](https://img.shields.io/badge/Bootstrap-grey) | ![Everything else shield](https://img.shields.io/badge/Everything_else-red) |
 | ![React Shield](https://img.shields.io/badge/React-blue) | ![React Shield](https://img.shields.io/badge/React-blue) | |
 
 
